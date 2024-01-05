@@ -1,11 +1,12 @@
 repo_name: TajAlasfiyaa/volto
 report_id: 241749e50242b22da49c49d5963e3263
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-10T09:25:51+00:00'
+timestamp: '2024-01-05T08:27:11+00:00'
 requested_by: iFlameing
 provider: github
 branch: master
-detected_tools_count: 173
+detected_tools_count: 177
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto
   detection_source: Repo Metadata
 - name: Gherkin
   description: A plain-text language with a simple structure
@@ -24,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/requirements-docs.txt
   detection_source: requirements-docs.txt
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2020-10-25 17:48:26.000000000 Z
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Rob Gietema
   last_updated_on: 2016-05-15 15:31:13.000000000 Z
@@ -67,6 +73,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -78,6 +85,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Rob Gietema
   last_updated_on: 2016-05-15 15:31:13.000000000 Z
@@ -89,6 +97,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2022-09-27 16:40:56.000000000 Z
@@ -102,7 +111,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5388/9xvwNLlR_400x400.jpg
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2022-12-03 15:05:38.000000000 Z
@@ -117,7 +126,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: SaiRev
   last_updated_on: 2023-01-27 10:25:09.000000000 Z
@@ -131,7 +140,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Rob Gietema
   last_updated_on: 2016-05-15 15:31:13.000000000 Z
@@ -144,6 +153,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Rob Gietema
   last_updated_on: 2016-05-15 15:31:13.000000000 Z
@@ -157,7 +167,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: __tests__/fixtures/test-volto-project/addons/test-addon/src/custom-addons/volto/server.jsx
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2020-09-04 04:51:30.000000000 Z
@@ -171,7 +181,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/3350/8261421.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -184,7 +194,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/4074/13142323.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-05-16 17:31:51.000000000 Z
@@ -199,7 +209,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1106/semantic-ui.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Nilesh
   last_updated_on: 2022-01-20 15:08:28.000000000 Z
@@ -213,7 +223,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -226,6 +236,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -237,6 +248,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/9878/react-beautiful-dnd-logo.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -249,6 +261,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-05-16 17:31:51.000000000 Z
@@ -261,6 +274,7 @@ tools:
   category: Data Stores
   sub_category: PostgreSQL as a Service
   image_url: https://img.stackshare.io/service/2516/original.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/g-api/docker-compose.yml
   detection_source: g-api/docker-compose.yml
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2020-11-27 16:44:47.000000000 Z
@@ -272,6 +286,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/g-api/docker-compose.yml
   detection_source: g-api/docker-compose.yml
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2020-11-27 16:44:47.000000000 Z
@@ -283,6 +298,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/api/requirements.txt
   detection_source: api/requirements.txt
   last_updated_by: Victor Fernandez de Alba
   last_updated_on: 2022-10-03 08:58:01.000000000 Z
@@ -296,7 +312,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: babel.config.js
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-03-28 08:02:46.000000000 Z
@@ -309,6 +325,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/package.json
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-01-09 15:25:23.000000000 Z
@@ -323,7 +340,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/volto-testing/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/volto-testing/yarn.lock
   detection_source: package.json
   last_updated_by: SaiRev
   last_updated_on: 2023-01-27 10:25:09.000000000 Z
@@ -336,6 +353,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/g-api/docker-compose.yml
   detection_source: g-api/docker-compose.yml
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2020-11-27 16:44:47.000000000 Z
@@ -348,6 +366,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/.eslintrc
   detection_source: ".eslintrc"
   last_updated_by: Rob Gietema
   last_updated_on: 2016-05-15 15:31:13.000000000 Z
@@ -359,6 +378,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -368,6 +388,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/.github/workflows/acceptance.yml
   detection_source: ".github/workflows/acceptance.yml"
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -380,6 +401,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Collaboration & Version Control
   image_url: https://img.stackshare.io/service/33828/default_e76a2e548a3a7f39b4f90978fcfea4cfddcc577e.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/package.json
   detection_source: packages/generator-volto/package.json
   last_updated_by: Alin Voinea
   last_updated_on: 2021-04-05 18:10:19.000000000 Z
@@ -393,7 +415,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Rob Gietema
   last_updated_on: 2016-05-15 15:31:13.000000000 Z
@@ -405,6 +427,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Rob Gietema
   last_updated_on: 2016-05-15 15:31:13.000000000 Z
@@ -418,7 +441,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Timo Stollenwerk
   last_updated_on: 2020-06-30 21:07:15.000000000 Z
@@ -430,6 +453,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/requirements-docs.txt
   detection_source: requirements-docs.txt
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2020-10-25 17:48:26.000000000 Z
@@ -441,6 +465,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Rob Gietema
   last_updated_on: 2016-05-15 15:31:13.000000000 Z
@@ -454,7 +479,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -467,6 +492,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Load Balancer / Reverse Proxy
   image_url: https://img.stackshare.io/service/5126/default_0a34be001ec8247c641508aa468564fb386bc50c.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: sven
   last_updated_on: 2022-12-08 18:49:03.000000000 Z
@@ -480,7 +506,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 10:22:50.000000000 Z
@@ -492,6 +518,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/yarn.lock
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2022-11-08 15:29:29.000000000 Z
@@ -503,6 +530,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Scaffolding Tools
   image_url: https://img.stackshare.io/service/853/46ea2dd8b1bdd31a8ba61044cb5b6ebe.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/package.json
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-06-12 19:22:36.000000000 Z
@@ -517,7 +545,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/7054/preview.jpeg
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/volto-slate/package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-07-21 09:06:29.000000000 Z
@@ -529,6 +557,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/volto-slate/package.json
   detection_source: packages/volto-slate/package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-07-21 09:06:29.000000000 Z
@@ -541,6 +570,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/netlify.toml
   detection_source: netlify.toml
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-02-20 17:13:07.000000000 Z
@@ -553,6 +583,7 @@ tools:
   category: Collaboration
   sub_category: Project Management
   image_url: https://img.stackshare.io/service/6925/preview.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/package.json
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-01-09 15:25:23.000000000 Z
@@ -567,7 +598,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -579,6 +610,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/api/requirements.txt
   detection_source: api/requirements.txt
   last_updated_by: Victor Fernandez de Alba
   last_updated_on: 2022-10-03 08:58:01.000000000 Z
@@ -591,7 +623,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -606,7 +638,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2022-09-27 16:40:56.000000000 Z
@@ -620,7 +652,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-03-01 08:53:59.000000000 Z
@@ -629,6 +661,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7060/4060187.jpeg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -641,6 +674,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto
   detection_source: Repo Metadata
 - name: Slate
   description: Beautiful static documentation for your API, inspired by Stripe's and
@@ -652,6 +686,7 @@ tools:
   category: Application Utilities
   sub_category: Documentation as a Service & Tools
   image_url: https://img.stackshare.io/service/4189/preview.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-11-24 16:21:50.000000000 Z
@@ -664,6 +699,7 @@ tools:
   category: Application Utilities
   sub_category: Search Engines
   image_url: https://img.stackshare.io/service/1598/TtqoAo1V.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/requirements-docs.txt
   detection_source: requirements-docs.txt
   last_updated_by: Mohammad Hussain
   last_updated_on: 2023-02-06 04:00:58.000000000 Z
@@ -673,6 +709,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/package.json
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-01-09 15:25:23.000000000 Z
@@ -683,6 +720,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8480/LI68uG-2_normal.jpg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/requirements-docs.txt
   detection_source: requirements-docs.txt
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-02-20 17:13:07.000000000 Z
@@ -691,6 +729,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2022-11-07 08:08:58.000000000 Z
@@ -699,6 +738,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-12-08 18:46:37.000000000 Z
@@ -708,6 +748,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8032/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/package.json
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2022-08-01 15:06:09.000000000 Z
@@ -721,7 +762,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -735,7 +776,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16238/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -749,7 +790,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16312/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -763,7 +804,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16497/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -777,7 +818,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16503/default_55f3303d620c93eecbee69c43373d484f2be492f.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -791,7 +832,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16489/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Victor Fernandez de Alba
   last_updated_on: 2023-03-15 19:08:22.000000000 Z
@@ -805,7 +846,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -819,7 +860,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16786/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -833,7 +874,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -847,7 +888,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -862,7 +903,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -876,7 +917,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/volto-testing/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/volto-testing/yarn.lock
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-11-24 16:21:50.000000000 Z
@@ -891,7 +932,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/volto-testing/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/volto-testing/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -906,7 +947,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17877/default_d41d3b5a213e129d6ea411e77eecb13f54b6aea5.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -920,7 +961,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17579/default_56bd3e923a141d34abaa4571e114397607a895b2.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-01-09 15:25:23.000000000 Z
@@ -934,7 +975,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -948,7 +989,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -962,7 +1003,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15943/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -976,7 +1017,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16379/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -991,7 +1032,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17528/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1005,7 +1046,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18493/default_db00a6c1af5a4fa1e8ab7164ff7ad16844777229.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1020,10 +1061,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15928/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/volto-slate/package.json
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/volto-slate/package.json
   detection_source: packages/volto-slate/package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-07-21 09:06:29.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source: packages/generator-volto/package.json
+  last_updated_by: Víctor Fernández de Alba
+  last_updated_on: 2021-01-09 15:25:23.000000000 Z
 - name: circular-dependency-plugin
   description: Detect modules with circular dependencies when bundling with webpack
   package_url: https://www.npmjs.com/circular-dependency-plugin
@@ -1034,7 +1089,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17612/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1048,7 +1103,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-12-08 18:46:37.000000000 Z
@@ -1062,7 +1117,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Nicola Zambello
   last_updated_on: 2021-12-13 21:16:02.000000000 Z
@@ -1076,7 +1131,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18338/default_a605b2929de4c3bd4460a01b8dc144fde6aa5419.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1090,7 +1145,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16069/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-01-09 15:25:23.000000000 Z
@@ -1104,7 +1159,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-09-29 08:57:07.000000000 Z
@@ -1118,7 +1173,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17827/default_369b3bf3ef062123a581e4817f09cb0004de7ff6.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Piero Nicolli
   last_updated_on: 2022-03-29 08:35:24.000000000 Z
@@ -1132,7 +1187,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16509/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Timo Stollenwerk
   last_updated_on: 2020-07-08 14:55:48.000000000 Z
@@ -1146,7 +1201,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16886/default_39222bc61d2c4e84c2e001fe7b31e7c8bf5f4832.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2022-12-03 15:05:38.000000000 Z
@@ -1160,7 +1215,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -1174,7 +1229,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -1188,7 +1243,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16088/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1202,7 +1257,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-01-09 15:25:23.000000000 Z
@@ -1216,7 +1271,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16573/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-01-09 15:25:23.000000000 Z
@@ -1230,7 +1285,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15940/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1244,7 +1299,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1258,7 +1313,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1272,7 +1327,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1286,7 +1341,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1300,7 +1355,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1314,7 +1369,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16132/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-01-09 15:25:23.000000000 Z
@@ -1328,7 +1383,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: SaiRev
   last_updated_on: 2023-01-27 10:25:09.000000000 Z
@@ -1343,7 +1398,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16611/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2023-02-09 10:42:31.000000000 Z
@@ -1358,7 +1413,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -1372,7 +1427,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18063/image.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/scripts/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-12-24 17:18:27.000000000 Z
@@ -1386,7 +1441,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-02-17 07:31:45.000000000 Z
@@ -1400,7 +1455,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16209/default_dc80ff0a17bac19253430a4f0f586714841116db.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -1415,7 +1470,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16478/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1429,7 +1484,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1443,10 +1498,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-12-08 18:46:37.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source: package.json
+  last_updated_by: Víctor Fernández de Alba
+  last_updated_on: 2022-11-07 08:08:58.000000000 Z
 - name: identity-obj-proxy
   description: An identity object using ES6 proxies
   package_url: https://www.npmjs.com/identity-obj-proxy
@@ -1457,7 +1526,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16206/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -1471,7 +1540,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16070/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -1485,7 +1554,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17839/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-07-21 09:06:29.000000000 Z
@@ -1499,7 +1568,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-12-08 18:46:37.000000000 Z
@@ -1513,7 +1582,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 10:22:50.000000000 Z
@@ -1527,7 +1596,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17395/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1541,10 +1610,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15989/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 9.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tiberiu Ichim
+  last_updated_on: 2022-12-08 18:46:37.000000000 Z
 - name: lodash-webpack-plugin
   description: Smaller modular Lodash builds
   package_url: https://www.npmjs.com/lodash-webpack-plugin
@@ -1555,7 +1638,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17204/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1569,7 +1652,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1583,7 +1666,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2022-09-27 16:40:56.000000000 Z
@@ -1597,7 +1680,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16589/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-01-09 15:25:23.000000000 Z
@@ -1611,7 +1694,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16015/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-12-08 18:46:37.000000000 Z
@@ -1625,7 +1708,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16265/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -1639,7 +1722,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17798/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -1653,7 +1736,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -1667,7 +1750,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16233/default_dc80ff0a17bac19253430a4f0f586714841116db.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -1681,7 +1764,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16763/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Timo Stollenwerk
   last_updated_on: 2020-06-30 21:07:15.000000000 Z
@@ -1695,7 +1778,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16351/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-03-01 08:53:59.000000000 Z
@@ -1709,7 +1792,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-01-09 15:25:23.000000000 Z
@@ -1723,7 +1806,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-12-08 18:46:37.000000000 Z
@@ -1737,7 +1820,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16244/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2022-09-27 16:40:56.000000000 Z
@@ -1751,7 +1834,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18599/default_3397f11bde97ca8f2273691776ca19b846d4097a.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-12-08 18:46:37.000000000 Z
@@ -1766,7 +1849,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18481/default_b1cf9304b0729d49b29387dbf128529889705643.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1780,7 +1863,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16710/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1794,7 +1877,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16799/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1808,7 +1891,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1822,7 +1905,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16979/default_665377899254fe85c1cf6bf7f15e24c4180a76ac.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1836,7 +1919,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17066/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1850,7 +1933,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16566/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1864,7 +1947,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17829/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1878,7 +1961,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18410/default_afa8cf4d4b1cb2221a0d40752d8d610a1477ae95.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1892,7 +1975,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1906,7 +1989,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16058/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1920,7 +2003,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1934,7 +2017,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16452/default_d634bba6819a28b85a138b7ded782cadbfa6a482.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1948,7 +2031,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18551/default_9ee31ff0b8de914bd17073075dcd2fcbf11980a7.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1962,7 +2045,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1976,7 +2059,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -1990,7 +2073,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16380/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -2004,7 +2087,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16918/default_c17ccfb3dc0510bb2c684b87ee080a74a9728c34.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -2018,7 +2101,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16990/default_a753a22aef103e9dbba3f82f20c705e33d009143.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -2032,7 +2115,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17039/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Victor Fernandez de Alba
   last_updated_on: 2023-03-15 19:08:22.000000000 Z
@@ -2046,7 +2129,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16721/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -2060,7 +2143,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16490/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2022-11-27 21:50:03.000000000 Z
@@ -2074,7 +2157,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17202/default_077b6c5a1d83537f4c2e69cb474f20509daa99ac.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -2088,7 +2171,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Victor Fernandez de Alba
   last_updated_on: 2019-03-01 18:54:04.000000000 Z
@@ -2110,7 +2193,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17203/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-11-08 08:09:50.000000000 Z
@@ -2124,7 +2207,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16567/default_d6ff16957d0b119d673d5ec0eb21b08d8d5008f4.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/scripts/yarn.lock
   detection_source: packages/scripts/package.json
   last_updated_by: SaiRev
   last_updated_on: 2023-01-27 10:25:09.000000000 Z
@@ -2145,7 +2228,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18566/default_27683a26a828c4de36f39c196ee155306eb1eaee.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -2159,7 +2242,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -2173,7 +2256,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16896/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-04 09:01:41.000000000 Z
@@ -2187,7 +2270,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16046/default_939338dc71400138c5e4a3464e041bf30f8f82ba.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2022-08-01 15:06:09.000000000 Z
@@ -2201,7 +2284,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -2215,7 +2298,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Rob Gietema
   last_updated_on: 2016-05-15 15:31:13.000000000 Z
@@ -2229,7 +2312,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16264/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Victor Fernandez de Alba
   last_updated_on: 2021-01-09 16:33:22.000000000 Z
@@ -2243,7 +2326,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: package.json
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-12-08 18:46:37.000000000 Z
@@ -2257,7 +2340,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 14:47:50.000000000 Z
@@ -2271,7 +2354,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16156/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: David Glick
   last_updated_on: 2023-03-15 10:22:50.000000000 Z
@@ -2285,7 +2368,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16243/default_dc80ff0a17bac19253430a4f0f586714841116db.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-06-12 19:22:36.000000000 Z
@@ -2300,7 +2383,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15971/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-06-12 19:22:36.000000000 Z
@@ -2314,10 +2397,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16229/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
-  detection_source_url: github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/packages/generator-volto/yarn.lock
   detection_source: packages/generator-volto/package.json
   last_updated_by: Víctor Fernández de Alba
   last_updated_on: 2021-06-12 19:22:36.000000000 Z
+- name: docutils
+  description: Docutils -- Python Documentation Utilities
+  package_url: https://pypi.org/project/docutils
+  version: '0.17'
+  license: Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19874/default_7ed3c4ccf2a3218ae3655165b980bd4a90a445dc.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/requirements-docs.txt
+  detection_source: requirements-docs.txt
+  last_updated_by: Tiberiu Ichim
+  last_updated_on: 2022-02-20 17:13:07.000000000 Z
 - name: lesscpy
   description: Python LESS compiler
   package_url: https://pypi.org/project/lesscpy
@@ -2327,6 +2424,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/TajAlasfiyaa/volto/blob/master/requirements-docs.txt
   detection_source: requirements-docs.txt
   last_updated_by: Tiberiu Ichim
   last_updated_on: 2022-02-20 17:13:07.000000000 Z
