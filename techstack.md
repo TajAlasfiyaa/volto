@@ -116,7 +116,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TajAlasfiyaa/volto](https://github.com/TajAlasfiyaa/volto)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|173<br/>Tools used|12/10/23 <br/>Report generated|
+|177<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -631,9 +631,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (114)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (118)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (113)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (116)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -659,6 +659,7 @@ Full tech stack [here](/techstack.md)
 |[babel-plugin-react-intl](https://www.npmjs.com/babel-plugin-react-intl)|v5.1.17|03/15/23|David Glick |BSD-3-Clause|N/A|
 |[babel-plugin-root-import](https://www.npmjs.com/babel-plugin-root-import)|v6.1.0|03/15/23|David Glick |MIT|N/A|
 |[babel-plugin-transform-class-properties](https://www.npmjs.com/babel-plugin-transform-class-properties)|v6.24.1|07/21/22|Tiberiu Ichim |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.1|01/09/21|Víctor Fernández de Alba |MIT|N/A|
 |[circular-dependency-plugin](https://www.npmjs.com/circular-dependency-plugin)|v5.2.2|03/15/23|David Glick |ISC|N/A|
 |[classnames](https://www.npmjs.com/classnames)|v2.2.6|12/08/22|Tiberiu Ichim |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v2.9.0|12/13/21|Nicola Zambello |MIT|N/A|
@@ -689,6 +690,7 @@ Full tech stack [here](/techstack.md)
 |[hoist-non-react-statics](https://www.npmjs.com/hoist-non-react-statics)|v3.3.2|03/15/23|David Glick |BSD-3-Clause|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v5.5.0|03/15/23|David Glick |MIT|N/A|
 |[http-proxy-middleware](https://www.npmjs.com/http-proxy-middleware)|v2.0.1|12/08/22|Tiberiu Ichim |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v3.1.0|11/07/22|Víctor Fernández de Alba |MIT|N/A|
 |[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|03/04/23|David Glick |MIT|N/A|
 |[immutable](https://www.npmjs.com/immutable)|v3.8.2|03/04/23|David Glick |MIT|N/A|
 |[is-url](https://www.npmjs.com/is-url)|v1.2.4|07/21/22|Tiberiu Ichim |MIT|N/A|
@@ -696,6 +698,7 @@ Full tech stack [here](/techstack.md)
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v9.0.0|03/15/23|David Glick |MIT|N/A|
 |[jwt-decode](https://www.npmjs.com/jwt-decode)|v2.2.0|03/15/23|David Glick |MIT|N/A|
 |[less-loader](https://www.npmjs.com/less-loader)|v11.1.0|03/04/23|David Glick |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v9.5.0|12/08/22|Tiberiu Ichim |MIT|N/A|
 |[lodash-webpack-plugin](https://www.npmjs.com/lodash-webpack-plugin)|v0.11.6|03/15/23|David Glick |MIT|N/A|
 |[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v2.7.2|03/15/23|David Glick |MIT|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.29.4|09/27/22|David Glick |MIT|N/A|
@@ -752,10 +755,11 @@ Full tech stack [here](/techstack.md)
 |[yeoman-test](https://www.npmjs.com/yeoman-test)|v6.2.0|06/12/21|Víctor Fernández de Alba |MIT|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (1)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (2)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[docutils](https://pypi.org/project/docutils)|v0.17|02/20/22|Tiberiu Ichim |Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible|N/A|
 |[lesscpy](https://pypi.org/project/lesscpy)|N/A|02/20/22|Tiberiu Ichim |MIT|N/A|
 
 <br/>
